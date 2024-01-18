@@ -1,5 +1,6 @@
 ## Pour commencer
 Title: reconstructing the Higgs boson at CMS and distinguishing it from background
+
 In this project the student will use simulated data from the Compact Muon Solenoid (CMS) experiment at the CERN Large Hadron Collider (LHC) to first reconstruct the Higgs boson from its decay products, without making use of existing function libraries that were designed to this effect. Once this is implemented, the written code will be applied to both simulated signal events and simulated background events, and a program will be written to determine the optimal selection to make on the variables provided to obtain the highest signal-to-background ratio.
 If time allows, a next step would be to attempt to simulate additional events, based on the information extracted from the provided samples. 
 
